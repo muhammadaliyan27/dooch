@@ -3,7 +3,7 @@ import React from 'react'
 const Herosecs = () => {
   return (
     <div>
-      hello
+      hi
     </div>
   )
 }
